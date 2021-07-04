@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [10.0.3](https://github.com/moribvndvs/ng2-idle/compare/v10.0.0...v10.0.3) (2021-07-04)
+
+**Note:** Version bump only for package codesmurfing-ng-idle
+
+
+
+
+
+
 # [10.0.0](https://github.com/moribvndvs/ng2-idle/compare/v9.0.0-beta.1...v10.0.0) (2020-09-10)
 
 
