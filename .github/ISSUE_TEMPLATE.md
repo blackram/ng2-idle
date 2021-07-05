@@ -27,7 +27,7 @@ please provide the *STEPS TO REPRODUCE* and if possible a *MINIMAL DEMO* of the 
 **Please tell us about your environment:**
 <!-- Operating system, IDE, package manager, HTTP server, ... -->
 
-* **@ng-idle version:** 2.x
+* **@codesmurfing-ng-idle version:** 2.x
 <!-- Check whether this is still an issue with the most recent version of @ng-idle/core or add-on module -->
 
 * **Angular version:** 2.x

@@ -4,7 +4,7 @@
   "lib": {
     "entryFile": "src/public-api.ts",
     "umdModuleIds": {
-      "@ng-idle/core": "ng-idle.core"
+      "@codesmurfing-ng-idle/core": "codesmurfing-ng-idle.core"
     }
   }
 }
